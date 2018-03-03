@@ -1,2 +1,2 @@
 # vosnark
-Verify only version of pequin
+Verify only version of pequin.
